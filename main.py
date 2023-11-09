@@ -102,3 +102,5 @@ def main():
 
 
 main()
+
+print('Ok lets go')
